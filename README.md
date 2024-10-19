@@ -27,6 +27,6 @@
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Rafa-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
   </a>
-  <img align="center" alt="Imagem adicional" height="60" width="80" src="https://imgs.search.brave.com/EtdAckLCsZ8NnQdDStdOGLjuVSyx9zInD-tTGAvjVSY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMy9IYWNr/ZXItUE5HLUltYWdl/cy5wbmc" style="max-width: 100%;">
+  <img align="center" alt="Imagem adicional" height="60" width="60" src="https://imgs.search.brave.com/5CxHoEDvdeBPF_qlHhQH7kM47P0MFdkFMF1P2JFcoyc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZy/ZWVwaWsuY29tLzI1/Ni8xNDk1Ny8xNDk1/NzUwNy5wbmc_c2Vt/dD1haXNfaHlicmlk" style="max-width: 100%;">
 </div>
 
