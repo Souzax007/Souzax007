@@ -51,9 +51,9 @@
     <img align="center" alt="Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
   </a>
 
-  <!-- phpMyAdmin Icon -->
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpmyadmin/phpmyadmin-original.svg">
-    <img align="center" alt="phpMyAdmin" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpmyadmin/phpmyadmin-original.svg" style="max-width: 100%;">
+  <!-- MySQL Icon (substituindo phpMyAdmin) -->
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img align="center" alt="MySQL" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="max-width: 100%;">
   </a>
   
 </div>
