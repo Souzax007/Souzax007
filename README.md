@@ -1,12 +1,12 @@
 ## Olá! Eu sou o Marcos
 
-🔭 Atualmente estou trabalhando em projetos full stack utilizando diversos frameworks.
+🔭 Atualmente estou trabalhando em projetos utilizando diversos frameworks.
 
-🌱 Atualmente estou aprendendo novas tecnologias e frameworks para aprimorar minhas habilidades como desenvolvedor.
+🌱 Estou aprendendo novas tecnologias e frameworks para aprimorar minhas habilidades como desenvolvedor.
 
-👯 Estou buscando colaborar em projetos inovadores de desenvolvimento web ou mobile.
+👯 Buscando colaborar em projetos inovadores de desenvolvimento web ou mobile.
 
-💬 Pergunte-me sobre desenvolvimento full stack, frameworks.
+💬 Pergunte-me sobre desenvolvimento.
 
 ⚡ Curiosidade: Sempre estou em busca de soluções criativas para problemas de programação.
 
@@ -29,11 +29,6 @@
   <!-- JavaScript Icon -->
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Rafa-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
-  </a>
-  
-  <!-- React Icon -->
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Rafa-React" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;">
   </a>
 
   <!-- PHP Icon -->
