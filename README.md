@@ -1,14 +1,14 @@
 ## Olá! Eu sou o Marcos
 
-🔭 Atualmente estou trabalhando em projetos utilizando diversos frameworks.
+Atualmente estou trabalhando em projetos utilizando diversos frameworks.
 
-🌱 Estou aprendendo novas tecnologias e frameworks para aprimorar minhas habilidades como desenvolvedor.
+Estou aprendendo novas tecnologias e frameworks para aprimorar minhas habilidades como desenvolvedor.
 
-👯 Buscando colaborar em projetos inovadores de desenvolvimento web ou mobile.
+Buscando colaborar em projetos inovadores de desenvolvimento web ou mobile.
 
-💬 Pergunte-me sobre desenvolvimento.
+Pergunte-me sobre desenvolvimento.
 
-⚡ Curiosidade: Sempre estou em busca de soluções criativas para problemas de programação.
+Curiosidade: Sempre estou em busca de soluções criativas para problemas de programação.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Souzax007&theme=neon&show_icons=true)
 
