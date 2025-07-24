@@ -1,4 +1,4 @@
-## Olá! Eu sou o Marcos
+## Olá! sou o Marcos
 
 Atualmente estou trabalhando em projetos utilizando diversos frameworks.
 
