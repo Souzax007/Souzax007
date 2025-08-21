@@ -52,6 +52,28 @@ Buscando colaborar em projetos inovadores de desenvolvimento web ou mobile.
     <img align="center" alt="Rafa-Bootstrap" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" style="max-width: 100%;">
 </a>
 
+  <!-- Node.js Icon -->
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Node.js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="max-width: 100%;">
+  </a>
+
+  <!-- CodePen Icon -->
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg">
+    <img align="center" alt="CodePen" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" style="max-width: 100%;">
+  </a>
+
+  <!-- Phaser Icon -->
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phaser/phaser-original.svg">
+    <img align="center" alt="Phaser" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phaser/phaser-original.svg" style="max-width: 100%;">
+  </a>
+
+  <!-- phpMyAdmin Icon (não existe no Devicon, então usei um SVG oficial adaptado) -->
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.phpmyadmin.net/static/images/logo-og.png">
+    <img align="center" alt="phpMyAdmin" height="60" width="80" src="https://www.phpmyadmin.net/static/images/logo-og.png" style="max-width: 100%;">
+  </a>
+
+
+
 ## Tecnologias e Ferramentas
 
 ![HTML5](https://img.shields.io/badge/Code-HTML5-E34F26?logo=html5)
