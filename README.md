@@ -56,5 +56,21 @@ Curiosidade: Sempre estou em busca de soluções criativas para problemas de pro
     <img align="center" alt="Rafa-Bootstrap" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" style="max-width: 100%;">
 </a>
 
+## Tecnologias e Ferramentas
+
+![HTML5](https://img.shields.io/badge/Code-HTML5-E34F26?logo=html5)
+![CSS3](https://img.shields.io/badge/Code-CSS3-1572B6?logo=css3)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript)
+![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js)
+![PHP](https://img.shields.io/badge/Code-PHP-777BB4?logo=php)
+![SQL](https://img.shields.io/badge/Database-SQL-4479A1?logo=mysql)
+![phpMyAdmin](https://img.shields.io/badge/Tool-phpMyAdmin-6C78AF?logo=phpmyadmin)
+![Python](https://img.shields.io/badge/Code-Python-3776AB?logo=python)
+![Phaser](https://img.shields.io/badge/Game-Phaser-2D72B8?logo=phaser)
+![CodePen](https://img.shields.io/badge/CodePen-000000?logo=codepen)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+
+
+
   
 </div>
