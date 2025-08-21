@@ -63,9 +63,10 @@ Buscando colaborar em projetos inovadores de desenvolvimento web ou mobile.
   </a>
 
   <!-- Phaser Icon -->
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phaser/phaser-original.svg">
-    <img align="center" alt="Phaser" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phaser/phaser-original.svg" style="max-width: 100%;">
-  </a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://phaser.io/">
+  <img align="center" alt="Phaser" height="60" width="80" src="https://phaser.io/images/img.png" style="max-width: 100%;">
+</a>
+
 
   <!-- phpMyAdmin Icon (não existe no Devicon, então usei um SVG oficial adaptado) -->
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.phpmyadmin.net/static/images/logo-og.png">
