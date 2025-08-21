@@ -59,10 +59,11 @@ Buscando colaborar em projetos inovadores de desenvolvimento web ou mobile.
 
   <!-- CodePen Icon -->
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://codepen.io/">
-  <img align="center" alt="CodePen" height="60" width="80" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" 
-       style="max-width: 100%; background-color: white; padding: 10px; border-radius: 8px;">
+  <img align="center" alt="CodePen" height="60" width="80"
+       src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg"
+       style="max-width: 100%; background-color: white; padding: 8px; border-radius: 8px;">
 </a>
+
 
 
   <!-- Phaser Icon -->
