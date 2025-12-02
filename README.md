@@ -1,6 +1,6 @@
-## Olá! sou o Marcos
+## Marcos
 
-Atualmente estou trabalhando em projetos utilizando diversos frameworks.
+Atualmente gosto de fazer projetos diferentes.
 
 Estou aprendendo novas tecnologias e frameworks para aprimorar minhas habilidades como desenvolvedor.
 
