@@ -2,9 +2,9 @@
 
 Atualmente gosto de fazer projetos diferentes.
 
-Estou aprendendo novas tecnologias e frameworks para aprimorar minhas habilidades como desenvolvedor.
+Estou aprendendo novas tecnologias para aprimorar minhas habilidades como desenvolvedor.
 
-Buscando colaborar em projetos inovadores de desenvolvimento web ou mobile.
+Buscando colaborar em projetos de desenvolvimento web.
 
 <div dir="auto"><br>
 
