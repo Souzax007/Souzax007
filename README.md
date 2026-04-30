@@ -1,95 +1,72 @@
-## Marcos
+# Olá, seja bem-vindo!
 
-Atualmente gosto de fazer projetos diferentes.
+Me chamo Marcos, sou desenvolvedor web e estou sempre aprendendo alguma coisa nova. Fico feliz que você tenha passado por aqui — fique à vontade para explorar meus projetos e, se quiser trocar uma ideia, é só chamar.
 
-Estou aprendendo novas tecnologias para aprimorar minhas habilidades como desenvolvedor.
+---
 
-Buscando colaborar em projetos de desenvolvimento web.
+## Um pouco sobre mim
 
-<div dir="auto"><br>
+Comecei a programar por curiosidade e fui ficando por conta da satisfação de ver algo que criei funcionando. Gosto de construir projetos do zero, desde a interface até o banco de dados, e de vez em quando me aventuro em coisas fora do comum — como jogos 2D com Phaser.
 
-  <!-- HTML Icon -->
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Rafa-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
-  </a>
+Atualmente estou expandindo meu conhecimento em novas tecnologias e aberto a colaborar em projetos web. Se você tiver algo em mente, pode me chamar sem cerimônia.
 
-  <!-- CSS Icon -->
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Rafa-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
-  </a>
-  
-  <!-- JavaScript Icon -->
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Rafa-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
-  </a>
+---
 
-  <!-- PHP Icon -->
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="center" alt="Rafa-PHP" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="max-width: 100%;">
-  </a>
+## Com o que trabalho
 
-  <!-- Linux Icon -->
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-    <img align="center" alt="Linux" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="max-width: 100%;">
-  </a>
+**Front-end:** HTML, CSS, JavaScript, Bootstrap  
+**Back-end:** PHP, Node.js, Python  
+**Linguagem de banco de dados:** SQL  
+**SGBD:** MySQL  
+**Ferramentas de banco de dados:** MySQL Workbench, phpMyAdmin  
+**Outros:** Linux, Phaser, CodePen
 
-  <!-- Python Icon -->
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
-  </a>
-
-  <!-- MySQL Icon (substituindo phpMyAdmin) -->
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="MySQL" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="max-width: 100%;">
-  </a>
-
-  <!-- Bootstrap Icon (substituindo Bootstrap ) -->
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="Rafa-Bootstrap" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" style="max-width: 100%;">
-</a>
-
-  <!-- Node.js Icon -->
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Node.js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="max-width: 100%;">
-  </a>
-
-  <!-- CodePen Icon -->
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://codepen.io/">
-  <img align="center" alt="CodePen" height="60" width="80"
-       src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg"
-       style="max-width: 100%; background-color: white; padding: 8px; border-radius: 8px;">
-</a>
-
-
-
-  <!-- Phaser Icon -->
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://phaser.io/">
-  <img align="center" alt="Phaser" height="60" width="80" src="https://phaser.io/images/img.png" style="max-width: 100%;">
-</a>
-
-
-  <!-- phpMyAdmin Icon (não existe no Devicon, então usei um SVG oficial adaptado) -->
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.phpmyadmin.net/static/images/logo-og.png">
-    <img align="center" alt="phpMyAdmin" height="60" width="80" src="https://www.phpmyadmin.net/static/images/logo-og.png" style="max-width: 100%;">
-  </a>
-
-
-
-## Tecnologias e Ferramentas
-
-![HTML5](https://img.shields.io/badge/Code-HTML5-E34F26?logo=html5)
-![CSS3](https://img.shields.io/badge/Code-CSS3-1572B6?logo=css3)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript)
-![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js)
-![PHP](https://img.shields.io/badge/Code-PHP-777BB4?logo=php)
-![SQL](https://img.shields.io/badge/Database-SQL-4479A1?logo=mysql)
-![phpMyAdmin](https://img.shields.io/badge/Tool-phpMyAdmin-6C78AF?logo=phpmyadmin)
-![Python](https://img.shields.io/badge/Code-Python-3776AB?logo=python)
-![Phaser](https://img.shields.io/badge/Game-Phaser-2D72B8?logo=phaser)
-![CodePen](https://img.shields.io/badge/CodePen-000000?logo=codepen)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-
-
-
-  
+<div>
+  <img alt="HTML5" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5">
+  &nbsp;
+  <img alt="CSS3" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3">
+  &nbsp;
+  <img alt="JavaScript" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
+  &nbsp;
+  <img alt="PHP" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP">
+  &nbsp;
+  <img alt="Python" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
+  &nbsp;
+  <img alt="Node.js" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js">
+  &nbsp;
+  <img alt="MySQL" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL">
+  &nbsp;
+  <img alt="Bootstrap" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap">
+  &nbsp;
+  <img alt="Linux" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux">
+  &nbsp;
+  <img alt="Phaser" height="45" src="https://phaser.io/images/img.png" title="Phaser">
+  &nbsp;
+  <img alt="CodePen" height="45" src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" title="CodePen" style="background:#fff;padding:4px;border-radius:6px">
+  &nbsp;
+  <img alt="phpMyAdmin" height="45" src="https://www.phpmyadmin.net/static/images/logo-og.png" title="phpMyAdmin">
 </div>
+
+---
+
+## Estatísticas do GitHub
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Souzax007&show_icons=true&theme=dark&hide_border=true&count_private=true&locale=pt-br&title_color=58a6ff&icon_color=58a6ff" alt="Estatísticas gerais">
+  &nbsp;&nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souzax007&layout=compact&theme=dark&hide_border=true&locale=pt-br&title_color=58a6ff" alt="Linguagens mais usadas">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Souzax007&theme=dark&hide_border=true&locale=pt_BR&date_format=d%20M%5B%20Y%5D" alt="Sequência de contribuições">
+</div>
+
+---
+
+## No momento
+
+Trabalhando em projetos pessoais variados, aprendendo novas tecnologias no caminho e sempre aberto a colaborar com quem tiver uma ideia legal pra desenvolver.
+
+---
+
+Obrigado por visitar! Se quiser conversar sobre algum projeto ou só trocar uma ideia sobre programação, fique à vontade.
