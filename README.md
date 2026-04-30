@@ -52,14 +52,12 @@ Atualmente estou expandindo meu conhecimento em novas tecnologias e aberto a col
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Souzax007&show_icons=true&theme=dark&hide_border=true&count_private=true&locale=pt-br&title_color=58a6ff&icon_color=58a6ff" alt="Estatísticas gerais">
-  &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souzax007&layout=compact&theme=dark&hide_border=true&locale=pt-br&title_color=58a6ff" alt="Linguagens mais usadas">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Souzax007&show_icons=true&theme=dark&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Souzax007&theme=dark&hide_border=true" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souzax007&layout=compact&theme=dark&hide_border=true" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Souzax007&theme=dark&hide_border=true&locale=pt_BR&date_format=d%20M%5B%20Y%5D" alt="Sequência de contribuições">
-</div>
+
 
 ---
 
