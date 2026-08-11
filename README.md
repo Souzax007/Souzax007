@@ -94,19 +94,12 @@ GitHub
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Souzax007&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas do GitHub">
+<img src="https://github-readme-stats.vercel.app/api?username=Souzax007&show_icons=true&theme=dark&hide_border=true" height="180">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souzax007&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas">
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Souzax007&theme=dark&hide_border=true" alt="GitHub Streak">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souzax007&layout=compact&theme=dark&hide_border=true&langs_count=8" height="180">
 
 </div>
+
 
 ---
 
